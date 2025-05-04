@@ -3,6 +3,7 @@
 Welcome to the **Modern Data Warehouse & Analytics Project**! 🚀  
 This repository showcases a complete, hands-on data engineering and analytics solution — from raw data ingestion to analytical insights — built with **MySQL**. Developed as a portfolio project, it demonstrates **best practices** in **data warehousing**, **ETL**, **data modeling**, and **SQL-based analytics**.
 
+### Credit for Guidance: Data with Baraa
 ---
 
 ## 🏗️ Data Architecture
